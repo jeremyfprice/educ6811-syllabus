@@ -18,7 +18,7 @@ Each module consists of several components:
 
 1.	Readings from the books or from online sources;
 2.	Tip of Your Iceberg which are activities that encourage you to share your existing understandings of a topic;
-3.	A "Professor’s Perspective" in which I help to frame the module by pointing out some of the points from the readings I found salient;
+3.	A "Professor's Perspective" in which I help to frame the module by pointing out some of the points from the readings I found salient;
 4.	Making Connections, online discussions that allow you to connect with the content and connect with each other;
 5.	Looking Back, Looking Ahead, allowing you to reflect on what you learned in the unit; and,
 6.	Multi-Unit Performances of Understanding, larger activities that require you to pull concepts, ideas, and skills from two or three units that both allow you to demonstrate and build your understandings.
