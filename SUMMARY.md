@@ -18,4 +18,5 @@
    * Unit 3: Meaning and Identity: Exploring Communities of Practice
    * Unit 4: Thinking Globally, Acting Locally: Communities in One Place at One Time
    * Unit 5: Everybody Here Is A Cloud: Communities across Time and Space
+   * Unit 6: Fostering "Beloved Communities:" Technology, Learning, Purpose, and Social Justice
 
