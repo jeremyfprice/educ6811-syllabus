@@ -11,10 +11,6 @@ In order to join the course on Schoology, sign up for an account at https://www.
 
 You are expected to share the artifacts you create for the Introductory Performances and Reflection Performances with your peers through the discussion board on Schoology. If there is a particular artifact you do not wish to share with your peers, please send me an email and we will discuss this. These artifacts are conversation starters and triggers for learning as much as they are a way for you to individually make your tacit knowledge explicit and reflect on your learning. Once you submit your artifact, you will be expected to engage in discourse with others about these artifacts. You are also encouraged to consider how you would modify your artifact based on the conversation.
 
-## Contract Grading
-
-Blah
-
 ## Submitting Your Artifacts
 
 As a professional courtesy to yourself, your professor, and your classmates, it is important to submit assignments on time on the due date. All stages of the Culminating Performance are due in Task Stream before 11:59pm. It is best not to wait until the Very Last Minute to submit artifacts.
