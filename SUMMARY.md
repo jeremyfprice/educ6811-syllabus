@@ -12,5 +12,5 @@
    * [Contract Grading](contract_grading.md)
    * [Multi-Unit Performances of Understanding](multi-unit_performances_of_understanding.md)
 * [Course Schedule](course_schedule.md)
-   * Performances Due Date Schedule
+   * [Performances Due Date Schedule](performances_due_date_schedule.md)
 
