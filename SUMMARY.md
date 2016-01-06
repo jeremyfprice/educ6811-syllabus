@@ -7,4 +7,5 @@
    * [Course Policies and Practices](course_policies_and_practices.md)
    * [Rules of Engagement](rules_of_engagement.md)
    * [Acknowledgements](acknowledgements.md)
+* Performances of Understanding
 
