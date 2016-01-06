@@ -8,5 +8,5 @@
    * [Rules of Engagement](rules_of_engagement.md)
    * [Acknowledgements](acknowledgements.md)
 * [Performances of Understanding](performances_of_understanding.md)
-   * Contract Grading
+   * [Contract Grading](contract_grading.md)
 
