@@ -8,6 +8,6 @@
    * [Rules of Engagement](rules_of_engagement.md)
    * [Acknowledgements](acknowledgements.md)
 * [Performances of Understanding](performances_of_understanding.md)
-   * [Contract Grading](contract_grading.md)
    * [Categories of Performances of Understanding](categories_of_performances_of_understanding.md)
+   * [Contract Grading](contract_grading.md)
 
