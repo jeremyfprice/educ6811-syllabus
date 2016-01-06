@@ -1,5 +1,5 @@
 # Summary
 
-* Course Introduction and Expectations
 * Title Page
+* Course Introduction and Expectations
 
