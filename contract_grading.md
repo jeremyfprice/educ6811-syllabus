@@ -20,7 +20,7 @@ This option is mainly for students who are not working towards a degree. If you 
 * Respond to *at least two* other students' postings on the above intermediate performances.
 * Respond to *at least one* response to one of your original postings in each of the above intermediate performances. Engage in dialogue, that's how we learn ;-)
 * Complete the Qualitative Ego-Centered Social Network Analysis Multi-Unit Culminating Performance.
-* Complete the Capstone Learning Community Reflection.
+* Complete the [Capstone] Learning Community Reflection.
 
 ## Meeting Expectations: B
 
