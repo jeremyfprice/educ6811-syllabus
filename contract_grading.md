@@ -18,7 +18,7 @@ This option is mainly for students who are not working towards a degree. If you 
   2. Making Connections
   3. Looking Back, Looking Ahead
 3. Respond to *at least two* other students' postings on the above intermediate performances.
-4. Respond to *at least one* response to one of your original postings. Engage in dialogue, that's how we learn :wink:
+4. Respond to *at least one* response to one of your original postings. Engage in dialogue, that's how we learn ;-)
 
 ## Meeting Expectations: B
 
