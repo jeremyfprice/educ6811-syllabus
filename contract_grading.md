@@ -10,7 +10,15 @@ The requirements for a grade of C, B and A are outlined below. Note that "A stud
 
 ## Getting the Graduate Credit: C
 
+This option is mainly for students who are not working towards a degree. If you believe that at *any* point you may seek a masters degree, you should contract for a B or an A.
 
+1. Complete readings.
+2. Post your responses to the following intermediate performances for each unit in a timely[^1] manner:
+  1. Tip of Your Iceberg
+  2. Making Connections
+  3. Looking Back, Looking Ahead
+3. Respond to *at least two* other students' postings on the above intermediate performances.
+4. Respond to *at least one* response to one of your original postings. Engage in dialogue, that's how we learn :wink:
 
 ## Meeting Expectations: B
 
@@ -19,3 +27,6 @@ Blah
 ## Above and Beyond: A
 
 Blah
+
+---
+[^1]*Timely* means well before the posted end of the unit, with plenty of time for fellow students (and the professor) to respond to your postings.
