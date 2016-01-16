@@ -14,4 +14,5 @@
 * [Course Schedule](course_schedule.md)
    * [Performances Due Date Schedule](performances_due_date_schedule.md)
    * (1/19-1/29) Unit 1: Understanding the Landscape: Communities and Networks in Learning and Teaching
+   * (2/1-2/14) Unit 2: Injecting Intentionality: From Facebook and LinkedIn to Intentional Social Networks
 
