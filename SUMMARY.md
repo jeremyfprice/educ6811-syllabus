@@ -19,5 +19,5 @@
    * (2/29-3/13) Unit 4: Thinking Globally, Acting Locally: Communities in One Place at One Time
    * (3/21-4/3) Unit 5: Everybody Here Is A Cloud: Communities across Time and Space
    * (4/4-4/17) Unit 6: Fostering "Beloved Communities:" Technology, Learning, Purpose, and Social Justice
-   * (4/25-5/6)
+   * (4/25-5/6) Unit 7: Pulling It All Together: Building Learning Communities in the Digital Age
 
