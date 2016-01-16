@@ -13,5 +13,4 @@
    * [Multi-Unit Performances of Understanding](multi-unit_performances_of_understanding.md)
 * [Course Schedule](course_schedule.md)
    * [Performances Due Date Schedule](performances_due_date_schedule.md)
-   * Unit 7: Pulling It All Together: Building Learning Communities in the Digital Age
 
