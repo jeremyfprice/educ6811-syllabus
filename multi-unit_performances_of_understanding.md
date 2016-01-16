@@ -24,4 +24,4 @@ Drawing upon the various ideas, frameworks, discussions, and readings from the c
 
 *Required for C, B, and A level work*
 
-Reflecting on your learning and experience is always a good idea. *Expected Page Length:* 5-7 pages
+Reflecting on your learning and experience is an important step in learning. You are to bring the ideas, frameworks, discussions, and readings for the course and identify how your thinking about learning communities and technologies has changed. *Expected Page Length:* 5-7 pages
