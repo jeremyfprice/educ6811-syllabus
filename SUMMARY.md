@@ -17,4 +17,5 @@
    * (2/1-2/14) Unit 2: Injecting Intentionality: From Facebook and LinkedIn to Intentional Social Networks
    * (2/15-2/27) Unit 3: Meaning and Identity: Exploring Communities of Practice
    * (2/29-3/13) Unit 4: Thinking Globally, Acting Locally: Communities in One Place at One Time
+   * (3/21-4/3) Unit 5: Everybody Here Is A Cloud: Communities across Time and Space
 
