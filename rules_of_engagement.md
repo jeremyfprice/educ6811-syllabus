@@ -13,12 +13,13 @@ You are expected to share the artifacts you create for the Introductory Performa
 
 ## Submitting Your Artifacts
 
-As a professional courtesy to yourself, your professor, and your classmates, it is important to submit assignments on time on the due date. All stages of the Culminating Performance are due in Task Stream before 11:59pm. It is best not to wait until the Very Last Minute to submit artifacts.
-
-I completely understand that life happens and emergencies, illnesses, and other situations come up when you least want them to. If you are involved in an emergency, illness, or situation, please inform me via email as soon as possible, preferably before the due date, and we can discuss an extension. I also understand that things may happen on the date an assignment is due, so every student in EDUC6811 has a "Things Happen Buffer." You have 24 hours after the due date to contact me via email to request an extension because of an emergency, illness, or situation, although the sooner you contact me the better.
 
 You will be required to use TaskStream to submit your performances. Your subscription is included in your tuition. The self-enrollment code for this course is:
 
 **EDUC6811-2016**
 
 For more information, visit http://bit.ly/fsu-taskstream.
+
+As a professional courtesy to yourself, your professor, and your classmates, it is important to submit assignments on time on the due date. All stages of the Culminating Performance are due in Task Stream before 11:59pm. It is best not to wait until the Very Last Minute to submit artifacts.
+
+I completely understand that life happens and emergencies, illnesses, and other situations come up when you least want them to. If you are involved in an emergency, illness, or situation, please inform me via email as soon as possible, preferably before the due date, and we can discuss an extension. I also understand that things may happen on the date an assignment is due, so every student in EDUC6811 has a "Things Happen Buffer." You have 24 hours after the due date to contact me via email to request an extension because of an emergency, illness, or situation, although the sooner you contact me the better.
