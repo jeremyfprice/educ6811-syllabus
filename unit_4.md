@@ -2,9 +2,9 @@
 
 ## Understanding Goals
 
-* What are the characteristics of “in-place” (classroom, community center, workplace) communities?
+* What are the characteristics of "in-place" (classroom, community center, workplace) communities?
 * What are the ways learning and teaching are facilitated in these communities?
-* What are the ways that technology supports and challenges “in-place” communities?
+* What are the ways that technology supports and challenges "in-place" communities?
 
 ## Readings
 
