@@ -9,5 +9,5 @@
 ## Readings
 
 * [Easing the Pain of Student Collaboration](https://www.teachingchannel.org/blog/2014/03/25/deeper-learning-student-collaboration/)
-* 
+* [Learning Communities at the Crossroads](http://www.jstor.org.ezproxy.fairmontstate.edu/stable/20441704?seq=1#page_scan_tab_contents)
 * *Communities of Practice* pages 143-183
