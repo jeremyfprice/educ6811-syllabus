@@ -5,5 +5,6 @@
 * What are the ways that technology supports and challenges the negotiation of meaning, identity and practice in communities and social networks?
 
 ## Readings
-* Blah
+* Chapters 1-2 in *Cultivating Communities of Practice* 
+* *Communities of Practice*, pages 45-84
 
