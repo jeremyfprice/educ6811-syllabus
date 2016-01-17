@@ -6,5 +6,5 @@
 * What are the ways that technology supports and challenges virtual communities?
 
 ## Readings
-* Social Network Sites: Definition, History, and Scholarship (boyd & Ellison, 2007) (http://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.2007.00393.x/pdf)
-* Wolf, Batgirl, and Starlight: Finding a Real Community in a Virtual World in *Information Ecologies: Using Technology with Heart*
+* [Social Network Sites: Definition, History, and Scholarship](http://onlinelibrary.wiley.com/doi/10.1111/j.1083-6101.2007.00393.x/pdf)
+* "Wolf, Batgirl, and Starlight: Finding a Real Community in a Virtual World" in *Information Ecologies: Using Technology with Heart*
