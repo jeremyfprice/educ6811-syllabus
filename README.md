@@ -1,6 +1,7 @@
 # Syllabus for EDUC6811 Learning Communities in the Digital Age
 
-Blah blah blah.
+This course will allow students to explore the role of communities in the learning and teaching process with technology and digital media. Students will learn to foster communities of learners with technology in their educational setting and to recognize the role that the larger community
+and society plays in learning and teaching.
 
 ----
 
