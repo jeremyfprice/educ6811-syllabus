@@ -7,4 +7,5 @@
 ## Readings
 * Chapters 1-2 in *Cultivating Communities of Practice* 
 * *Communities of Practice*, pages 45-84
+* Chapter 3 in *Digital Habitats*
 
