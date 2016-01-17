@@ -5,5 +5,5 @@
 * What roles do purpose and intention play in the formation of communities and social networks?
 
 ## Readings
-* Chapter 6: Professional Culture and Communities in *Professional Capital: Transforming Teaching in Every School*
-* Chapter 3: "I Would Go to Her Because Her Mind is Math:" Network Formation in the Context of a District-Based Mathematics Reform in *Social Network Theory and Educational Change*
+* "Chapter 6: Professional Culture and Communities" in *Professional Capital: Transforming Teaching in Every School*
+* "Chapter 3: 'I Would Go to Her Because Her Mind is Math:' Network Formation in the Context of a District-Based Mathematics Reform" in *Social Network Theory and Educational Change*
