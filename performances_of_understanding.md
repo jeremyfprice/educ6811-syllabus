@@ -1,3 +1,3 @@
 # Performances of Understanding
 
-Blah
+<div align="center"><img src="performances.png" /></div>
