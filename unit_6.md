@@ -8,4 +8,5 @@
 
 ## Readings
 
-* Blah
+* "The Production of a Beloved Community: Sesame Street's Answer to America's Inequalities" (Mandel, 2006)
+* "Navigating Contradictory Communities of Practice in Learning to Teach for Social Justice" (Flores, 2007) (http://www.jstor.org.ezproxy.fairmontstate.edu/stable/25166637?seq=1#page_scan_tab_contents)
