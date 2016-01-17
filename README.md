@@ -1,6 +1,6 @@
 # Syllabus for EDUC6811 Learning Communities in the Digital Age
 
-Blah blah balh.
+Blah blah blah.
 
 ----
 
