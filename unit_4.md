@@ -8,4 +8,6 @@
 
 ## Readings
 
+* [Easing the Pain of Student Collaboration](https://www.teachingchannel.org/blog/2014/03/25/deeper-learning-student-collaboration/)
 * 
+* *Communities of Practice* pages 143-183
