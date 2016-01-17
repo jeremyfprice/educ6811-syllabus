@@ -8,5 +8,5 @@
 
 ## Readings
 
-* Blah
-* 
+* Chapters 3-5 in *Cultivating Communities of Practice*
+* Chapter 10 in *Digital Habitats*
