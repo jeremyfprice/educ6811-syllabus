@@ -16,7 +16,7 @@
    * [(2/29-3/13) Unit 3: Meaning and Identity: Exploring Communities of Practice](unit_3.md)
    * [(3/21-4/10) Unit 4: Thinking Globally, Acting Locally: Communities in One Place at One Time](unit_4.md)
    * [(4/11-4/24) Unit 5: Everybody Here Is A Cloud: Communities across Time and Space](unit_5.md)
-   * [(4/11-4/24) Unit 6: Fostering "Beloved Communities:" Technology, Learning, Purpose, and Social Justice](unit_6.md)
+   * [(4/25-5/6) Unit 6: Fostering "Beloved Communities:" Technology, Learning, Purpose, and Social Justice](unit_6.md)
    * [(4/25-5/6) Unit 7: Pulling It All Together: Building Learning Communities in the Digital Age](unit_7.md)
 * [Appendix](appendix.md)
    * [Fairmont State School of Education Conceptual Framework](fairmont_state_teacher_education_framework.md)
